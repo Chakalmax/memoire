@@ -1,0 +1,12 @@
+Name Birthday CP Year Income Tax
+string string string int int int
+Ayres  8-8-1984  322-573  2007  21 0
+Ayres  5-1-1960  ***-389  2007  22 0
+Ayres  5-1-1960  564-389  2007  22 0
+Stanley  13-8-1987  868-701  2007  23 3
+Stanley  31-7-1983  ***-198  2007 24 0
+Stanley  31-7-1983  930-198  2008  24 0
+Dustin  2-12-1985  179-924  2008  25 0
+Dustin  5-9-1980  ***-870  2008  100 21
+Dustin  5-9-1980  824-870  2009  100 21
+Dustin  9-4-1984  387-215  2009  150  40
